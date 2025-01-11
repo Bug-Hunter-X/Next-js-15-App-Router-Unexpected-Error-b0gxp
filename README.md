@@ -1,0 +1,1 @@
+This repository demonstrates a bug in Next.js 15's App Router.  A simple component, when rendered, throws an unexpected error.  The solution provides a workaround for this issue.
